@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lilia
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning PHP, js, nodejs, 
+- 🌱 I’m currently learning PHP, js, nodejs, python
 
 <!---
 glili/glili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
